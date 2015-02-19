@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>http://github.com/StringInterpolationBridge</projectUrl>
+    <description>$description$</description>
+    <tags>StringInterpolation bridge C#6</tags>
+  </metadata>
+  <files>
+    <file src="Net46Stub\*" target="lib\net46" /> 
+  </files>
+</package>

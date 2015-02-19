@@ -6,11 +6,11 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>http://github.com/StringInterpolationBridge</projectUrl>
+    <projectUrl>http://github.com/ashmind/StringInterpolationBridge</projectUrl>
     <description>$description$</description>
     <tags>StringInterpolation bridge C#6</tags>
   </metadata>
   <files>
-    <file src="Net46Stub\*" target="lib\net46" /> 
+    <file src="Net46Stub\*" target="lib\net46\" /> 
   </files>
 </package>

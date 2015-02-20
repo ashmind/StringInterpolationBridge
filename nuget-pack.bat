@@ -1,2 +1,3 @@
 @echo off
-call nuget pack StringInterpolationBridge\StringInterpolationBridge.csproj -Build -Properties Configuration=Release
+msbuild StringInterpolationBridge\StringInterpolationBridge.Net40.csproj /p:Configuration=Release
+nuget pack StringInterpolationBridge\StringInterpolationBridge.csproj -Build -Properties Configuration=Release

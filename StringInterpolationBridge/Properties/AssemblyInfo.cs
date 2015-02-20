@@ -36,5 +36,5 @@ using System.Runtime.InteropServices;
 
 // ReSharper disable once CheckNamespace
 internal static class AssemblyInfo {
-    public const string VersionString = "0.9.0";
+    public const string VersionString = "0.9.1";
 }

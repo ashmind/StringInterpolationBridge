@@ -32,7 +32,7 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion(AssemblyInfo.VersionString)]
 [assembly: AssemblyFileVersion(AssemblyInfo.VersionString)]
-[assembly: AssemblyInformationalVersion(AssemblyInfo.VersionString + "-untested")]
+[assembly: AssemblyInformationalVersion(AssemblyInfo.VersionString)]
 
 // ReSharper disable once CheckNamespace
 internal static class AssemblyInfo {
